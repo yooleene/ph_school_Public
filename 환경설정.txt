@@ -1,0 +1,5 @@
+1.주피터노트북 설치
+pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
+2.패키지 설치
+pip install pyautogui selenium --trusted-host pypi.org --trusted-host files.pythonhosted.org
